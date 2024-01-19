@@ -149672,7 +149672,7 @@ prjBgColor:'#ffffff',
 pkt:0,
 htmlBgColor:'#f5f4f1',
 shc:false,
-pN:'KRONOS TEMPLATE UPDATED.cpt'
+pN:'KRONOS D.cpt'
 },
 projectThemeData:{
 image_presets:'{\
